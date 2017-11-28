@@ -6,7 +6,7 @@ import { FormsModule } from '@angular/forms';
 import { HerosComponent } from './heros/heros.component';
 import { AppComponent } from './app.component';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
-import { HeroService } from './hero.service'
+import { HeroService } from './hero.service';
 
 
 @NgModule({
